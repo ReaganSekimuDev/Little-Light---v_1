@@ -254,6 +254,7 @@ html {
             display: flex;
             flex-direction: column;
             margin-left: 15px;
+            box-shadow: 0 5px 10px 0 rgba(181, 174, 174, 0.3), 0 14px 21px 0 rgba(173, 166, 166, 0.2);
         }
         main .our_story .bdy .cards .card .rect p {
             margin-left: 20px;
@@ -1722,4 +1723,5 @@ html {
             font-size: 13px;
             font-style: italic;
         }
+
     }
